@@ -3,7 +3,7 @@
 ### 팀명 : chat.zip
 ![image](https://github.com/PNU-ChatZip/Prompter-Day-Seoul/assets/34530460/14baf751-bacb-4dbd-a748-4906d8b6d818)
 
-ChatZip
+ChatZip MVP
 
 **바쁜 현대인들을 위한 채팅 요약 서비스**
 
@@ -13,7 +13,7 @@ ChatZip
 - 해당 채팅방에 참여하는 사람은 어떤 대화 내용이 오고 갔는지도 모른 채, 대화를 따라가고 정보를 얻기 위해 위에서부터 읽기 시작하는데, 세간에선 이를 벽타기, 등반이라고 할 정도로 생각보다 오랜 시간이 걸린다.
 - 따라서, 우리 chat.zip 팀은 하루에도 수 백여개의 대화가 오가는 중에 하루 마다, 혹은 원할때마다 간단하게 채팅을 요약한 정보를 알 수 있는, 바쁜 현대인들을 위한 앱을 개발하고자 한다.
 
-> GitHub Release (APK다운로드 주소)
+> MVP GitHub Release (APK다운로드 주소)
   
   [https://github.com/PNU-ChatZip/Prompter-Day-Seoul/releases/tag/v1.0.0](https://github.com/PNU-ChatZip/Prompter-Day-Seoul/releases/tag/v1.0.0)
 > 구글 드라이브 백업 다운로드 주소
