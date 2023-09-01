@@ -1,2 +1,5 @@
-# Prompter-Day-Seoul
+# 2023 Prompter-Day-Seoul
+##Chat.zip
+![image](https://github.com/PNU-ChatZip/Prompter-Day-Seoul/assets/34530460/14baf751-bacb-4dbd-a748-4906d8b6d818)
 - APK다운로드 주소: [https://drive.google.com/file/d/1YS6NlFfOIiDjCkW_3B2GZXgqMDT66zu8/view?usp=sharing](https://drive.google.com/file/d/1XYsiDOoBoT2tLoInwdPkhBH9FIWat906/view?usp=sharing)
+- GitHub Release
