@@ -4,6 +4,7 @@
 ![image](https://github.com/PNU-ChatZip/Prompter-Day-Seoul/assets/34530460/14baf751-bacb-4dbd-a748-4906d8b6d818)
 
 ChatZip MVP
+- 현재 안드로이드, 카카오톡 알림 요약만 지원
 
 **바쁜 현대인들을 위한 채팅 요약 서비스**
 
