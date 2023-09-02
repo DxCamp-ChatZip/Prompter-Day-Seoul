@@ -19,3 +19,8 @@ ChatZip MVP
 > 구글 드라이브 백업 다운로드 주소
   
   [https://drive.google.com/file/d/1YS6NlFfOIiDjCkW_3B2GZXgqMDT66zu8/view?usp=sharing](https://drive.google.com/file/d/1XYsiDOoBoT2tLoInwdPkhBH9FIWat906/view?usp=sharing)
+
+> 사용법
+  
+https://github.com/PNU-ChatZip/Prompter-Day-Seoul/assets/34530460/92f38de7-6794-4da8-93bb-9a69dd820e32
+
